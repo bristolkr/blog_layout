@@ -1,31 +1,60 @@
 <style type="text/css">
 
+body {
+  background-color: #140047;
+  font-family: 'Russo One', sans-serif;
+}
+/*
+header {
+  margin: 0;
+  padding: 10px;
+
+}
+
+h1,h2,h3 {
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  
+}
+
+p {
+  color: #140047;
+  font-family: 'Russo One', sans-serif;
+}
+
 #container {
+  width: 960px;
+  margin: auto;
 
 }
 
-#banner {
-
+#article {
+  width: 500px;
+  background-color: white;
+  position: center;
+  font-color: #140047;
+  margin: 1px #140047;
 }
 
-#nav {
-
+#aside {
+  width: 250px;
+  background-color: white;
+  position: left;
+  margin: 1px #140047;
+  
 }
 
-#main {
-
+.figure {
+  color: #140047;
+  font-family: 'Russo One', sans-serif;
 }
 
-#main_right {
+footer p {
+  color: #140047;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  vertical-align: bottom;
+}*/
 
-}
-
-#main_left {
-
-}
-
-#footer {
-
-}
 
 </style>
